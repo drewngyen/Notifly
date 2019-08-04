@@ -19,7 +19,7 @@ function Modal(props: any) {
       </div>
     );
   } else {
-    return <div />;
+    return <div>Someone will be with you shortly</div>;
   }
 }
 
